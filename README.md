@@ -14,7 +14,7 @@
   </br>
 👋 Hello, I'm Ahmed henchiri
 
-If you're looking to hire a dedicated, hardworking Full stack Js developer, I would love to 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 and discuss opportunities for 𝐟𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐞 𝐰𝐨𝐫𝐤 or 𝐫𝐞𝐦𝐨𝐭𝐞 𝐣𝐨𝐛 opportunities 👨‍💼. Feel free to reach out to me via DM, and I look forward to connecting 🤝 with you.
+I'm a passionate Web Developer with expertise in front-end development, back-end development, and everything in between. I love building dynamic and responsive web applications that provide a great user experience
 
 
 
